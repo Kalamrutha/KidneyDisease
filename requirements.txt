@@ -1,0 +1,7 @@
+#run main.ipynb file in jupyter
+
+#requirements: pip install -r requirements.txt
+
+pip install pandas==0.25.3
+pip install seaborn
+pip install scikit-learn==0.22.2.post1
